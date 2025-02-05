@@ -1,16 +1,8 @@
-# simple_calculator
+# Simple Calculator
 
-A new Flutter project.
+## 프로젝트 소개
+이 프로젝트는 기본적인 계산 기능을 제공하는 간단한 계산기 애플리케이션입니다.  
+기본 인터페이스는 아래 유튜브 영상을 참고하여 제작하였습니다. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **참고 영상:** [Basic Calculator Interface](https://www.youtube.com/watch?v=OO8rT1kC8bY&list=PLQt_pzi-LLfokCMjavyUqpAi_NdxVbgrq&index=7)
+  - 어플 인터페이스, 사칙 연산
